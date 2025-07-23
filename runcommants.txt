@@ -1,0 +1,3 @@
+pip install requirements.txt
+python scraper/scrape_imdb.py
+python -m streamlit run app.py
